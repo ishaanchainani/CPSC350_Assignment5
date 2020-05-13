@@ -1,0 +1,48 @@
+1
+Erna Anre
+Sophomore
+Business
+3.1
+28
+9
+Lena Khalidi
+Sophomore
+Computer Science
+4
+72
+11
+Aidan John
+Senior
+Finance
+3.8
+45
+16
+Ishaan Chainani
+Sophomore
+Analytics
+3.4
+31
+26
+Karen Smith
+Senior
+Physics
+3.9
+72
+66
+Nadine Khalidi
+Senior
+Political Science
+3.7
+28
+82
+Kwesi Kobina
+Freshman
+Creative Writing
+3.2
+72
+99
+Alfonso Guacomole
+Senior
+Analytics
+3.6
+45
